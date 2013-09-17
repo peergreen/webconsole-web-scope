@@ -9,7 +9,7 @@
     <relativePath>../webconsole-pom/pom.xml</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <name>Peergreen Web Console :: Home Scope and its related Extensions</name>
+  <name>Peergreen Web Console :: Web Scope and its related Extensions</name>
   <artifactId>web-scope</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>bundle</packaging>
