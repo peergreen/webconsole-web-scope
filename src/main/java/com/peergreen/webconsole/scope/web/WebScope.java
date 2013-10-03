@@ -21,7 +21,7 @@ import com.peergreen.webconsole.vaadin.tabs.TabScope;
  */
 @Extension
 @ExtensionPoint("com.peergreen.webconsole.scope")
-@Scope(value = "web", iconClass = "icon-at")
+@Scope(name = "web", domains = "peergreen.admin", iconClass = "icon-at")
 public class WebScope extends TabScope {
 
     public WebScope() {
